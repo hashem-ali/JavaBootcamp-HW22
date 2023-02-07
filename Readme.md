@@ -14,11 +14,12 @@ Course Class :
 id , name ( all should not be empty )
 
 
-One To One relations:
+---
+### One To One relations:
 
 Teacher - Address
 
-One To Many relations:
+### One To Many relations:
 
 Teacher - Course
 
