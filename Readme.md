@@ -11,6 +11,7 @@ Address Class :
 area , street , buildingNumber ( Add all required validation )
 
 Course Class :
+
 id , name ( all should not be empty )
 
 
